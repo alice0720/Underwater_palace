@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 09b284e3bc0a742b699bb8e9151d058b
+timeCreated: 1541597466
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone14_polySurface9
+    100004: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone15_polySurface9
+    100006: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone16_polySurface9
+    100008: PalaceObjectfile_final:pCone17_polySurface9
+    100010: PalaceObjectfile_final:pCone18_polySurface9
+    100012: PalaceObjectfile_final:pCone19_polySurface9
+    100014: PalaceObjectfile_final:pCone20_polySurface9
+    100016: PalaceObjectfile_final:pCone21_polySurface9
+    100018: PalaceObjectfile_final:pCone22_polySurface9
+    100020: PalaceObjectfile_final:pCone23_polySurface9
+    100022: PalaceObjectfile_final:pCone24_polySurface9
+    100024: PalaceObjectfile_final:pCone25_polySurface9
+    100026: PalaceObjectfile_final:pCone6_polySurface9
+    100028: PalaceObjectfile_final:pCylinder42_polySurface9
+    100030: PalaceObjectfile_final:pCylinder43_polySurface9
+    100032: PalaceObjectfile_final:polySurface79_polySurface9
+    100034: PalaceObjectfile_final:polySurface87_polySurface9
+    100036: PalaceObjectfile_final:polySurface89_polySurface9
+    400000: //RootNode
+    400002: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone14_polySurface9
+    400004: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone15_polySurface9
+    400006: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone16_polySurface9
+    400008: PalaceObjectfile_final:pCone17_polySurface9
+    400010: PalaceObjectfile_final:pCone18_polySurface9
+    400012: PalaceObjectfile_final:pCone19_polySurface9
+    400014: PalaceObjectfile_final:pCone20_polySurface9
+    400016: PalaceObjectfile_final:pCone21_polySurface9
+    400018: PalaceObjectfile_final:pCone22_polySurface9
+    400020: PalaceObjectfile_final:pCone23_polySurface9
+    400022: PalaceObjectfile_final:pCone24_polySurface9
+    400024: PalaceObjectfile_final:pCone25_polySurface9
+    400026: PalaceObjectfile_final:pCone6_polySurface9
+    400028: PalaceObjectfile_final:pCylinder42_polySurface9
+    400030: PalaceObjectfile_final:pCylinder43_polySurface9
+    400032: PalaceObjectfile_final:polySurface79_polySurface9
+    400034: PalaceObjectfile_final:polySurface87_polySurface9
+    400036: PalaceObjectfile_final:polySurface89_polySurface9
+    2300000: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone14_polySurface9
+    2300002: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone15_polySurface9
+    2300004: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone16_polySurface9
+    2300006: PalaceObjectfile_final:pCone17_polySurface9
+    2300008: PalaceObjectfile_final:pCone18_polySurface9
+    2300010: PalaceObjectfile_final:pCone19_polySurface9
+    2300012: PalaceObjectfile_final:pCone20_polySurface9
+    2300014: PalaceObjectfile_final:pCone21_polySurface9
+    2300016: PalaceObjectfile_final:pCone22_polySurface9
+    2300018: PalaceObjectfile_final:pCone23_polySurface9
+    2300020: PalaceObjectfile_final:pCone24_polySurface9
+    2300022: PalaceObjectfile_final:pCone25_polySurface9
+    2300024: PalaceObjectfile_final:pCone6_polySurface9
+    2300026: PalaceObjectfile_final:pCylinder42_polySurface9
+    2300028: PalaceObjectfile_final:pCylinder43_polySurface9
+    2300030: PalaceObjectfile_final:polySurface79_polySurface9
+    2300032: PalaceObjectfile_final:polySurface87_polySurface9
+    2300034: PalaceObjectfile_final:polySurface89_polySurface9
+    3300000: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone14_polySurface9
+    3300002: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone15_polySurface9
+    3300004: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone16_polySurface9
+    3300006: PalaceObjectfile_final:pCone17_polySurface9
+    3300008: PalaceObjectfile_final:pCone18_polySurface9
+    3300010: PalaceObjectfile_final:pCone19_polySurface9
+    3300012: PalaceObjectfile_final:pCone20_polySurface9
+    3300014: PalaceObjectfile_final:pCone21_polySurface9
+    3300016: PalaceObjectfile_final:pCone22_polySurface9
+    3300018: PalaceObjectfile_final:pCone23_polySurface9
+    3300020: PalaceObjectfile_final:pCone24_polySurface9
+    3300022: PalaceObjectfile_final:pCone25_polySurface9
+    3300024: PalaceObjectfile_final:pCone6_polySurface9
+    3300026: PalaceObjectfile_final:pCylinder42_polySurface9
+    3300028: PalaceObjectfile_final:pCylinder43_polySurface9
+    3300030: PalaceObjectfile_final:polySurface79_polySurface9
+    3300032: PalaceObjectfile_final:polySurface87_polySurface9
+    3300034: PalaceObjectfile_final:polySurface89_polySurface9
+    4300000: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone14_polySurface9
+    4300002: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone15_polySurface9
+    4300004: PalaceObjectfile_final:group6_PalaceObjectfile_final:pCone16_polySurface9
+    4300006: PalaceObjectfile_final:pCone17_polySurface9
+    4300008: PalaceObjectfile_final:pCone18_polySurface9
+    4300010: PalaceObjectfile_final:pCone19_polySurface9
+    4300012: PalaceObjectfile_final:pCone20_polySurface9
+    4300014: PalaceObjectfile_final:pCone21_polySurface9
+    4300016: PalaceObjectfile_final:pCone22_polySurface9
+    4300018: PalaceObjectfile_final:pCone23_polySurface9
+    4300020: PalaceObjectfile_final:pCone24_polySurface9
+    4300022: PalaceObjectfile_final:pCone25_polySurface9
+    4300024: PalaceObjectfile_final:pCone6_polySurface9
+    4300026: PalaceObjectfile_final:pCylinder42_polySurface9
+    4300028: PalaceObjectfile_final:pCylinder43_polySurface9
+    4300030: PalaceObjectfile_final:polySurface79_polySurface9
+    4300032: PalaceObjectfile_final:polySurface87_polySurface9
+    4300034: PalaceObjectfile_final:polySurface89_polySurface9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group6_PalaceObjectfile_final_pCone14_polySurface9Mat
+    second: {fileID: 2100000, guid: 9217010b1c02c4adca6c91ef63a37f5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group6_PalaceObjectfile_final_pCone15_polySurface9Mat
+    second: {fileID: 2100000, guid: 309d33d3ca73c4d17934f9b0b2e09d5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group6_PalaceObjectfile_final_pCone16_polySurface9Mat
+    second: {fileID: 2100000, guid: 0dc6cc979e1604a28bd9730276ee4c3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCone17_polySurface9Mat
+    second: {fileID: 2100000, guid: 095ff550f29b5419695b284f2f5d4f84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCone18_polySurface9Mat
+    second: {fileID: 2100000, guid: 8e4009a9697954f5b8bdde56a10c600d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCone19_polySurface9Mat
+    second: {fileID: 2100000, guid: b0533f2997c5944c1a09adccbe46ca49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCone20_polySurface9Mat
+    second: {fileID: 2100000, guid: 8e8fb0ead34634fc1aca6eb21dad0426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCone21_polySurface9Mat
+    second: {fileID: 2100000, guid: a5dc5af34d8304398beb19e8aaf1f036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCone22_polySurface9Mat
+    second: {fileID: 2100000, guid: 048fa928fd9c14242ab1a37f6b722e09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCone23_polySurface9Mat
+    second: {fileID: 2100000, guid: b593fd57e4f304662a69862cc702a42a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCone24_polySurface9Mat
+    second: {fileID: 2100000, guid: 07887357c8417451b8cddba834ab5b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCone25_polySurface9Mat
+    second: {fileID: 2100000, guid: 6ab70f5a0046a4d4fbf7d5ebe6562ef4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCone6_polySurface9Mat
+    second: {fileID: 2100000, guid: 3f2337f3ee7d149f09ad8ccb093aff67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCylinder42_polySurface9Mat
+    second: {fileID: 2100000, guid: cb1a94f58d6b3479cb3d771ee535fdec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCylinder43_polySurface9Mat
+    second: {fileID: 2100000, guid: 444f04f3876d242d198f8d9dbcee76c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_polySurface79_polySurface9Mat
+    second: {fileID: 2100000, guid: 5f6cee836ea2142a1a355842495a3511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_polySurface87_polySurface9Mat
+    second: {fileID: 2100000, guid: 75beb6dd9b16f40e79f59a75c41170da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_polySurface89_polySurface9Mat
+    second: {fileID: 2100000, guid: 7dec0f60f3ab24ec88da2e2c0d218969, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: a93ca212c54c4465ab3a9d7b5688449f
+timeCreated: 1541598774
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: PalaceObjectfile_final:group13_pCube81_polySurface242
+    100002: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder103_polySurface242
+    100004: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder104_polySurface242
+    100006: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder105_polySurface242
+    100008: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder106_polySurface242
+    100010: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder107_polySurface242
+    100012: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder108_polySurface242
+    100014: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder109_polySurface242
+    100016: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder110_polySurface242
+    100018: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder111_polySurface242
+    100020: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder112_polySurface242
+    100022: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder113_polySurface242
+    100024: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder114_polySurface242
+    100026: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder115_polySurface242
+    100028: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder116_polySurface242
+    100030: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder117_polySurface242
+    100032: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder118_polySurface242
+    100034: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder119_polySurface242
+    100036: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder120_polySurface242
+    100038: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder121_polySurface242
+    100040: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder122_polySurface242
+    100042: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder123_polySurface242
+    100044: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder124_polySurface242
+    100046: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder125_polySurface242
+    100048: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder126_polySurface242
+    100050: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder127_polySurface242
+    100052: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder128_polySurface242
+    100054: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder129_polySurface242
+    100056: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder130_polySurface242
+    100058: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder131_polySurface242
+    100060: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder132_polySurface242
+    100062: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder133_polySurface242
+    100064: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder134_polySurface242
+    100066: PalaceObjectfile_final:pCube113_PalaceObjectfile_final:polySurface170_polySurface242
+    100068: PalaceObjectfile_final:polySurface176_polySurface242
+    100070: //RootNode
+    400000: PalaceObjectfile_final:group13_pCube81_polySurface242
+    400002: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder103_polySurface242
+    400004: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder104_polySurface242
+    400006: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder105_polySurface242
+    400008: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder106_polySurface242
+    400010: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder107_polySurface242
+    400012: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder108_polySurface242
+    400014: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder109_polySurface242
+    400016: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder110_polySurface242
+    400018: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder111_polySurface242
+    400020: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder112_polySurface242
+    400022: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder113_polySurface242
+    400024: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder114_polySurface242
+    400026: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder115_polySurface242
+    400028: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder116_polySurface242
+    400030: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder117_polySurface242
+    400032: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder118_polySurface242
+    400034: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder119_polySurface242
+    400036: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder120_polySurface242
+    400038: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder121_polySurface242
+    400040: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder122_polySurface242
+    400042: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder123_polySurface242
+    400044: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder124_polySurface242
+    400046: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder125_polySurface242
+    400048: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder126_polySurface242
+    400050: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder127_polySurface242
+    400052: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder128_polySurface242
+    400054: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder129_polySurface242
+    400056: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder130_polySurface242
+    400058: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder131_polySurface242
+    400060: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder132_polySurface242
+    400062: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder133_polySurface242
+    400064: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder134_polySurface242
+    400066: PalaceObjectfile_final:pCube113_PalaceObjectfile_final:polySurface170_polySurface242
+    400068: PalaceObjectfile_final:polySurface176_polySurface242
+    400070: //RootNode
+    2300000: PalaceObjectfile_final:group13_pCube81_polySurface242
+    2300002: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder103_polySurface242
+    2300004: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder104_polySurface242
+    2300006: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder105_polySurface242
+    2300008: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder106_polySurface242
+    2300010: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder107_polySurface242
+    2300012: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder108_polySurface242
+    2300014: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder109_polySurface242
+    2300016: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder110_polySurface242
+    2300018: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder111_polySurface242
+    2300020: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder112_polySurface242
+    2300022: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder113_polySurface242
+    2300024: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder114_polySurface242
+    2300026: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder115_polySurface242
+    2300028: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder116_polySurface242
+    2300030: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder117_polySurface242
+    2300032: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder118_polySurface242
+    2300034: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder119_polySurface242
+    2300036: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder120_polySurface242
+    2300038: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder121_polySurface242
+    2300040: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder122_polySurface242
+    2300042: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder123_polySurface242
+    2300044: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder124_polySurface242
+    2300046: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder125_polySurface242
+    2300048: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder126_polySurface242
+    2300050: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder127_polySurface242
+    2300052: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder128_polySurface242
+    2300054: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder129_polySurface242
+    2300056: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder130_polySurface242
+    2300058: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder131_polySurface242
+    2300060: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder132_polySurface242
+    2300062: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder133_polySurface242
+    2300064: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder134_polySurface242
+    2300066: PalaceObjectfile_final:pCube113_PalaceObjectfile_final:polySurface170_polySurface242
+    2300068: PalaceObjectfile_final:polySurface176_polySurface242
+    3300000: PalaceObjectfile_final:group13_pCube81_polySurface242
+    3300002: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder103_polySurface242
+    3300004: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder104_polySurface242
+    3300006: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder105_polySurface242
+    3300008: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder106_polySurface242
+    3300010: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder107_polySurface242
+    3300012: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder108_polySurface242
+    3300014: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder109_polySurface242
+    3300016: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder110_polySurface242
+    3300018: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder111_polySurface242
+    3300020: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder112_polySurface242
+    3300022: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder113_polySurface242
+    3300024: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder114_polySurface242
+    3300026: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder115_polySurface242
+    3300028: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder116_polySurface242
+    3300030: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder117_polySurface242
+    3300032: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder118_polySurface242
+    3300034: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder119_polySurface242
+    3300036: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder120_polySurface242
+    3300038: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder121_polySurface242
+    3300040: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder122_polySurface242
+    3300042: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder123_polySurface242
+    3300044: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder124_polySurface242
+    3300046: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder125_polySurface242
+    3300048: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder126_polySurface242
+    3300050: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder127_polySurface242
+    3300052: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder128_polySurface242
+    3300054: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder129_polySurface242
+    3300056: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder130_polySurface242
+    3300058: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder131_polySurface242
+    3300060: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder132_polySurface242
+    3300062: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder133_polySurface242
+    3300064: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder134_polySurface242
+    3300066: PalaceObjectfile_final:pCube113_PalaceObjectfile_final:polySurface170_polySurface242
+    3300068: PalaceObjectfile_final:polySurface176_polySurface242
+    4300000: PalaceObjectfile_final:group13_pCube81_polySurface242
+    4300002: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder103_polySurface242
+    4300004: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder104_polySurface242
+    4300006: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder105_polySurface242
+    4300008: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder106_polySurface242
+    4300010: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder107_polySurface242
+    4300012: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder108_polySurface242
+    4300014: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder109_polySurface242
+    4300016: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder110_polySurface242
+    4300018: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder111_polySurface242
+    4300020: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder112_polySurface242
+    4300022: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder113_polySurface242
+    4300024: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder114_polySurface242
+    4300026: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder115_polySurface242
+    4300028: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder116_polySurface242
+    4300030: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder117_polySurface242
+    4300032: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder118_polySurface242
+    4300034: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder119_polySurface242
+    4300036: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder120_polySurface242
+    4300038: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder121_polySurface242
+    4300040: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder122_polySurface242
+    4300042: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder123_polySurface242
+    4300044: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder124_polySurface242
+    4300046: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder125_polySurface242
+    4300048: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder126_polySurface242
+    4300050: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder127_polySurface242
+    4300052: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder128_polySurface242
+    4300054: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder129_polySurface242
+    4300056: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder130_polySurface242
+    4300058: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder131_polySurface242
+    4300060: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder132_polySurface242
+    4300062: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder133_polySurface242
+    4300064: PalaceObjectfile_final:group28_PalaceObjectfile_final:pCylinder134_polySurface242
+    4300066: PalaceObjectfile_final:pCube113_PalaceObjectfile_final:polySurface170_polySurface242
+    4300068: PalaceObjectfile_final:polySurface176_polySurface242
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group13_pCube81_polySurface242Mat
+    second: {fileID: 2100000, guid: 9ed75e2f1ed8944999a10b171abde078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder103_polySurface242Mat
+    second: {fileID: 2100000, guid: 2446866141e03431abc4f58d0ee807cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder104_polySurface242Mat
+    second: {fileID: 2100000, guid: 690e9095809a84923a89a3157e3a98da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder105_polySurface242Mat
+    second: {fileID: 2100000, guid: 74a85e0229a7747c6b8ed07a47363a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder106_polySurface242Mat
+    second: {fileID: 2100000, guid: 1ccb6456f539d482bb506ae47d76779a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder107_polySurface242Mat
+    second: {fileID: 2100000, guid: c8a0bfba3db5b4ee8ad4fb0c63dd415f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder108_polySurface242Mat
+    second: {fileID: 2100000, guid: 5b4a3df4b96d54c399bd4b180a48b028, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder109_polySurface242Mat
+    second: {fileID: 2100000, guid: 39bac1100084c4a34ae9c3701806d9b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder110_polySurface242Mat
+    second: {fileID: 2100000, guid: 9e046349480414656ac64e35ace30f51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder111_polySurface242Mat
+    second: {fileID: 2100000, guid: 25e630c14a7294b09937760ac0263694, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder112_polySurface242Mat
+    second: {fileID: 2100000, guid: 4c440bed2f53d454393f38fb22eb9b52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder113_polySurface242Mat
+    second: {fileID: 2100000, guid: d9386787f8cb34322abb1199aa4ee425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder114_polySurface242Mat
+    second: {fileID: 2100000, guid: b4c4b85696a8148dabecf4a2e78a0d4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder115_polySurface242Mat
+    second: {fileID: 2100000, guid: 3fcfb74e68fe64056b1ce8e52be5d82a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder116_polySurface242Mat
+    second: {fileID: 2100000, guid: 110b0f5eeef094260a493b0c0c85dfaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder117_polySurface242Mat
+    second: {fileID: 2100000, guid: 28f98869fb83a4fd4bcf417851413e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder118_polySurface242Mat
+    second: {fileID: 2100000, guid: cb574b2271c224b80999d18bc33798fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder119_polySurface242Mat
+    second: {fileID: 2100000, guid: e67e1d6d13bb248d08a9dff27e36e641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder120_polySurface242Mat
+    second: {fileID: 2100000, guid: 70bf47423083044f68fbbd705f5f6982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder121_polySurface242Mat
+    second: {fileID: 2100000, guid: 1f2b59530deef4eda922f3ad8b8fb246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder122_polySurface242Mat
+    second: {fileID: 2100000, guid: 99efbf6d7faba4124aba1f2cc97fe500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder123_polySurface242Mat
+    second: {fileID: 2100000, guid: 00684c6becaac4da9b1c9c0f32d6ff8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder124_polySurface242Mat
+    second: {fileID: 2100000, guid: 48db20178571b47399d981ea00693530, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder125_polySurface242Mat
+    second: {fileID: 2100000, guid: 67e9a207c8d2d4a53be6e4af835b6935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder126_polySurface242Mat
+    second: {fileID: 2100000, guid: 38eeaf314b6384d19bd17f04ca23a2eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder127_polySurface242Mat
+    second: {fileID: 2100000, guid: 39ff8c34424b84a7fb58222bb8aca5b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder128_polySurface242Mat
+    second: {fileID: 2100000, guid: 413a627e3ef32472e85ea548fe8f77cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder129_polySurface242Mat
+    second: {fileID: 2100000, guid: e197258dcda5740188c05938d3de4c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder130_polySurface242Mat
+    second: {fileID: 2100000, guid: b9276290d36194ad28fc892cb19371aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder131_polySurface242Mat
+    second: {fileID: 2100000, guid: 20800f2c43d3a4fb1bc27d6ee9820a8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder132_polySurface242Mat
+    second: {fileID: 2100000, guid: 1b2910a5175a84ee5a92bcfdd4fe936b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder133_polySurface242Mat
+    second: {fileID: 2100000, guid: 21a6160773de543b5b8d0676fdc6bc83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_group28_PalaceObjectfile_final_pCylinder134_polySurface242Mat
+    second: {fileID: 2100000, guid: 8891cfafd4a7545fa9932944b80b3257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCube113_PalaceObjectfile_final_polySurface170_polySurface242Mat
+    second: {fileID: 2100000, guid: b2f2ab298a5c5459c8d12913cb1909e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_polySurface176_polySurface242Mat
+    second: {fileID: 2100000, guid: 3fab0917013724e34ad3b3d2f1991aa3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

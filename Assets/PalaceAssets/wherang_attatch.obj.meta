@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: dfbb51d2db8a742749dd91c63d599b8f
+timeCreated: 1541597466
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface189_polySurface277
+    100002: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface193_polySurface277
+    100004: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface195_polySurface277
+    100006: PalaceObjectfile_final:polySurface194_polySurface277
+    100008: PalaceObjectfile_final:polySurface196_polySurface277
+    100010: //RootNode
+    400000: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface189_polySurface277
+    400002: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface193_polySurface277
+    400004: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface195_polySurface277
+    400006: PalaceObjectfile_final:polySurface194_polySurface277
+    400008: PalaceObjectfile_final:polySurface196_polySurface277
+    400010: //RootNode
+    2300000: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface189_polySurface277
+    2300002: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface193_polySurface277
+    2300004: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface195_polySurface277
+    2300006: PalaceObjectfile_final:polySurface194_polySurface277
+    2300008: PalaceObjectfile_final:polySurface196_polySurface277
+    3300000: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface189_polySurface277
+    3300002: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface193_polySurface277
+    3300004: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface195_polySurface277
+    3300006: PalaceObjectfile_final:polySurface194_polySurface277
+    3300008: PalaceObjectfile_final:polySurface196_polySurface277
+    4300000: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface189_polySurface277
+    4300002: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface193_polySurface277
+    4300004: PalaceObjectfile_final:pCube89_PalaceObjectfile_final:polySurface195_polySurface277
+    4300006: PalaceObjectfile_final:polySurface194_polySurface277
+    4300008: PalaceObjectfile_final:polySurface196_polySurface277
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCube89_PalaceObjectfile_final_polySurface189_polySurface277Mat
+    second: {fileID: 2100000, guid: 2941b821021884182902ddf8c2d9acb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCube89_PalaceObjectfile_final_polySurface193_polySurface277Mat
+    second: {fileID: 2100000, guid: d42cb3403d0fb4c6aa9be0b4f8601000, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_pCube89_PalaceObjectfile_final_polySurface195_polySurface277Mat
+    second: {fileID: 2100000, guid: bc84774a00fa74c6ea8802c32e077747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_polySurface194_polySurface277Mat
+    second: {fileID: 2100000, guid: 03abb1e10bc9f437f8c9d50d1113cbb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalaceObjectfile_final_polySurface196_polySurface277Mat
+    second: {fileID: 2100000, guid: eb7212ce3ccd7488483ae793628e0e5e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
